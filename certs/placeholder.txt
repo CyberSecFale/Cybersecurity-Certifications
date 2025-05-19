@@ -1,0 +1,27 @@
+This folder stores cybersecurity certificates and credential files.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Created certs folder with placeholder file

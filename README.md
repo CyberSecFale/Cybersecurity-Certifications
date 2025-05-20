@@ -5,6 +5,8 @@ A public showcase of completed cybersecurity certifications and hands-on coursew
 
 ### Google Cybersecurity Professional Certificate
 
+![Google Cybersecurity Certificate](certs/Google_Cybersecurity_Certificate_2025.png)
+
 - 📄 [View Certificate (PDF)](certs/Google_Cybersecurity_Certificate_2025.pdf)  
 - 🔗 [Verify on Coursera](https://coursera.org/verify/professional-cert/PMYWE5C219QJ)
 

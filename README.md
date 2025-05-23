@@ -45,6 +45,7 @@ _Covers Linux, SQL, SIEM tools, IDS, threat detection, and risk mitigation techn
 | AI for Cybersecurity | Mar 30, 2025 | AI, Cybersecurity Use Cases |
 | SSL Certificates for Web Developers | Mar 28, 2025 | Web Security, SSL/TLS |
 | Cybersecurity for Executives | Mar 29, 2025 | GRC, Security Awareness |
+| System Administration: Backup and Recovery | May 22, 2025 | System Administration, Backup & Recovery Systems |
 
 ---
 

@@ -57,7 +57,8 @@ _Covers Linux, SQL, SIEM tools, IDS, threat detection, and risk mitigation techn
 ![SSL](certs/CertificateOfCompletion_SSL%20Certificates%20for%20Web%20Developers.png)
 ![Web Security](certs/CertificateOfCompletion_Programming%20Foundations%20Web%20Security.png)
 ![SIEM](certs/CertificateOfCompletion_Introduction%20to%20Security%20Information%20and%20Event%20Management%20SIEM.png)
-![Python](certs/Coursera_12ZUVV8PM1J0_automate-cybersecurity-python.png)
+![Python](https://github.com/CyberSecFale/Cybersecurity-Certifications/raw/main/certs/Coursera_12ZUVV8PM1J0_automate-cybersecurity-python.png)
+
 ![Networking](certs/Coursera_9PBFRRP67QVX_tcp-ip-routing-and-wireless-networking.png)
 ![System Administration](certs/CertificateOfCompletion_System%20Administration%20Backup%20and%20Recovery.png)
 ![IT Security Specialist](https://github.com/CyberSecFale/Cybersecurity-Certifications/raw/main/certs/CertificateOfCompletion_Become_an_IT_Security_Specialist.jpg)

@@ -46,6 +46,7 @@ _Covers Linux, SQL, SIEM tools, IDS, threat detection, and risk mitigation techn
 | SSL Certificates for Web Developers | Mar 28, 2025 | Web Security, SSL/TLS |
 | Cybersecurity for Executives | Mar 29, 2025 | GRC, Security Awareness |
 | System Administration: Backup and Recovery | May 22, 2025 | System Administration, Backup & Recovery Systems |
+| Become an IT Security Specialist | June 3, 2025 | Cybersecurity, Network Security, IT Security Ops |
 
 ---
 
@@ -59,6 +60,7 @@ _Covers Linux, SQL, SIEM tools, IDS, threat detection, and risk mitigation techn
 ![Python](certs/Coursera_12ZUVV8PM1J0_automate-cybersecurity-python.png)
 ![Networking](certs/Coursera_9PBFRRP67QVX_tcp-ip-routing-and-wireless-networking.png)
 ![System Administration](certs/CertificateOfCompletion_System%20Administration%20Backup%20and%20Recovery.png)
+![IT Security Specialist](certs/CertificateOfCompletion_Become_an_IT_Security_Specialist.jpg)
 
 
 ---

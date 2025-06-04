@@ -69,17 +69,15 @@ _Covers Linux, SQL, SIEM tools, IDS, threat detection, and risk mitigation techn
 
 ---
 
-## 🧠 Combined Skills Portfolio
+### 🧠 Combined Skills Portfolio
 
-- **Security Operations (SIEM, IR, GRC)**
-- **Network Administration (TCP/IP, Routing, Firewalls)**
-- **Secure Coding & Web Development (SSL, WordPress)**
-- **IT Support (Help Desk, Desktop Troubleshooting)**
-- **Business & Leadership (CISM, Global Biz Foundations)**
+- **Security Operations** (SIEM, IR, GRC)
+- **Network Administration** (TCP/IP, Routing, Firewalls)
+- **Secure Coding & Web Development** (SSL, WordPress)
+- **IT Support** (Help Desk, Desktop Troubleshooting)
+- **Business & Leadership** (CISM, Global Biz Foundations)
 
----
-
-> _“Study while others are sleeping. Work while others are loafing. Prepare while others are playing. Dream while others are wishing.”_  
+> _"Study while others are sleeping. Work while others are loafing. Prepare while others are playing. Dream while others are wishing."_  
 > — William Arthur Ward
 
 ---
@@ -87,7 +85,7 @@ _Covers Linux, SQL, SIEM tools, IDS, threat detection, and risk mitigation techn
 ### 🐺 Personal Brands
 
 ![CyberWolf001](https://img.shields.io/badge/CyberWolf001-Lab%20Ready-critical?style=flat&logo=github)
-![F%E2%B1%AFLE Network](https://img.shields.io/badge/F%E2%B1%AFLE%20Network-Secured%20by%20Design-blueviolet)
+[![FⱯLE Network](https://img.shields.io/badge/F%E2%B1%AFLE%20Network-Secured%20by%20Design-blueviolet)](https://falenetwork.com)
 
 ---
 
@@ -118,5 +116,5 @@ _Covers Linux, SQL, SIEM tools, IDS, threat detection, and risk mitigation techn
 ### 🔐 Lab Status
 
 ![CyberWolf001](https://img.shields.io/badge/CyberWolf001-Lab%20Commander-black)
-![F%E2%B1%AFLE Network](https://img.shields.io/badge/F%E2%B1%AFLE%20Network-Cyber%20Secure-blueviolet)
+[![FⱯLE Network](https://img.shields.io/badge/F%E2%B1%AFLE%20Network-Cyber%20Secure-blueviolet)](https://falenetwork.com)
 ![Cyber Secure](https://img.shields.io/badge/Cyber-Secure-green)

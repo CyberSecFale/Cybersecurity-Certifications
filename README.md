@@ -86,3 +86,30 @@ _Covers Linux, SQL, SIEM tools, IDS, threat detection, and risk mitigation techn
 
 ![CyberWolf001](https://img.shields.io/badge/CyberWolf001-Lab%20Ready-critical?style=flat&logo=github)
 ![FⱯLE Network Solutions](https://img.shields.io/badge/F%E2%B1%AFLE%20Network-Secured%20by%20Design-blueviolet)
+
+---
+
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white)
+![VSCode](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+
+---
+
+
+![Coursera](https://img.shields.io/badge/Coursera-0056D2?style=flat&logo=coursera&logoColor=white)
+![LinkedIn Learning](https://img.shields.io/badge/LinkedIn%20Learning-0077B5?style=flat&logo=linkedin&logoColor=white)
+
+---
+
+
+![Studying Security+](https://img.shields.io/badge/Studying-Security%2B-yellow)
+![Next Up: CEH](https://img.shields.io/badge/Next%20Up-CEH-red)
+![Daily Practice](https://img.shields.io/badge/Labs-Hands%20On-lightgrey)
+
+---
+
+![CyberWolf001](https://img.shields.io/badge/CyberWolf001-Lab%20Commander-critical?style=flat&logo=github)
+![FⱯLE Network](https://img.shields.io/badge/F%E2%B1%AFLE%20Network-Cyber%20Secure-blueviolet)
+
+

@@ -84,11 +84,39 @@ _Covers Linux, SQL, SIEM tools, IDS, threat detection, and risk mitigation techn
 
 ---
 
-### 🔧 Tools & Platforms
-![Linux](...) ![Wireshark](...) ![VS Code](...)
+### 🐺 Personal Brands
 
-### 📚 Learning Providers
-![Coursera](...) ![LinkedIn Learning](...)
+![CyberWolf001](https://img.shields.io/badge/CyberWolf001-Lab%20Ready-critical?style=flat&logo=github)
+![F%E2%B1%AFLE Network](https://img.shields.io/badge/F%E2%B1%AFLE%20Network-Secured%20by%20Design-blueviolet)
+
+---
+
+### 🛠️ Tools & Platforms
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+
+---
+
+### 📚 Certification Providers
+
+![Coursera](https://img.shields.io/badge/Coursera-0056D2?style=flat&logo=coursera&logoColor=white)
+![LinkedIn Learning](https://img.shields.io/badge/LinkedIn%20Learning-0077B5?style=flat&logo=linkedin&logoColor=white)
+
+---
 
 ### 🎯 Current Focus
-![Studying](...) ![Security+](...) ![Next Up CEH](...) ![Hands On](...)
+
+![Studying](https://img.shields.io/badge/Studying-Certification-lightgrey)
+![Security+](https://img.shields.io/badge/Security%2B-Yellow?style=flat)
+![Next Up: CEH](https://img.shields.io/badge/Next%20Up-CEH-red)
+![Hands On](https://img.shields.io/badge/Labs-Hands%20On-blue)
+
+---
+
+### 🔐 Lab Status
+
+![CyberWolf001](https://img.shields.io/badge/CyberWolf001-Lab%20Commander-black)
+![F%E2%B1%AFLE Network](https://img.shields.io/badge/F%E2%B1%AFLE%20Network-Cyber%20Secure-blueviolet)
+![Cyber Secure](https://img.shields.io/badge/Cyber-Secure-green)

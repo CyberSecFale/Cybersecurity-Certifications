@@ -60,7 +60,9 @@ _Covers Linux, SQL, SIEM tools, IDS, threat detection, and risk mitigation techn
 ![Python](certs/Coursera_12ZUVV8PM1J0_automate-cybersecurity-python.png)
 ![Networking](certs/Coursera_9PBFRRP67QVX_tcp-ip-routing-and-wireless-networking.png)
 ![System Administration](certs/CertificateOfCompletion_System%20Administration%20Backup%20and%20Recovery.png)
-![Computer Forensics](https://github.com/CyberSecFale/Cybersecurity-Certifications/raw/main/certs/CertificatedOfCompletion_Cybersecurity_Foundations_Computer%20Forensics.jpg)
+![IT Security Specialist](https://github.com/CyberSecFale/Cybersecurity-Certifications/raw/main/certs/CertificateOfCompletion_Become_an_IT_Security_Specialist.jpg)
+
+![Computer Forensics](https://github.com/CyberSecFale/Cybersecurity-Certifications/raw/main/certs/CertificateOfCompletion_Cybersecurity_Foundations_Computer%20Forensics.jpg)
 
 ![Cloud Security](https://github.com/CyberSecFale/Cybersecurity-Certifications/raw/main/certs/CertificateOfCompletion_Cybersecurity_With_Cloud_Computing.jpg)
 
@@ -69,9 +71,6 @@ _Covers Linux, SQL, SIEM tools, IDS, threat detection, and risk mitigation techn
 ![Threat Modeling](https://github.com/CyberSecFale/Cybersecurity-Certifications/raw/main/certs/CertificateOfCompletion_Learning_Threat_Modeling_For_Security_Professionals.jpg)
 
 ![Microsoft Security Essentials](https://github.com/CyberSecFale/Cybersecurity-Certifications/raw/main/certs/CertificateOfCompletion_Microsolft_Security_Essentials_Concepts_Solutions_And_AI_Powered_Protection.jpg)
-
-![IT Security Specialist](https://github.com/CyberSecFale/Cybersecurity-Certifications/raw/main/certs/CertificateOfCompletion_Become_an_IT_Security_Specialist.jpg)
-
 
 ---
 

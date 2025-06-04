@@ -57,20 +57,14 @@ _Covers Linux, SQL, SIEM tools, IDS, threat detection, and risk mitigation techn
 ![SSL](certs/CertificateOfCompletion_SSL%20Certificates%20for%20Web%20Developers.png)
 ![Web Security](certs/CertificateOfCompletion_Programming%20Foundations%20Web%20Security.png)
 ![SIEM](certs/CertificateOfCompletion_Introduction%20to%20Security%20Information%20and%20Event%20Management%20SIEM.png)
-certs/Coursera 12ZUVV8PM1J0_automate-cybersecurity-python.png
-
+![Python](https://github.com/CyberSecFale/Cybersecurity-Certifications/raw/main/certs/Coursera%2012ZUVV8PM1J0_automate-cybersecurity-python.png)
 ![Networking](certs/Coursera_9PBFRRP67QVX_tcp-ip-routing-and-wireless-networking.png)
 ![System Administration](certs/CertificateOfCompletion_System%20Administration%20Backup%20and%20Recovery.png)
 ![IT Security Specialist](https://github.com/CyberSecFale/Cybersecurity-Certifications/raw/main/certs/CertificateOfCompletion_Become_an_IT_Security_Specialist.jpg)
-
 ![Computer Forensics](https://github.com/CyberSecFale/Cybersecurity-Certifications/raw/main/certs/CertificateOfCompletion_Cybersecurity_Foundations_Computer%20Forensics.jpg)
-
 ![Cloud Security](https://github.com/CyberSecFale/Cybersecurity-Certifications/raw/main/certs/CertificateOfCompletion_Cybersecurity_With_Cloud_Computing.jpg)
-
 ![Ethics in Cybersecurity](https://github.com/CyberSecFale/Cybersecurity-Certifications/raw/main/certs/CertificateOfCompletion_Ethic_In_Cybersecurity.jpg)
-
 ![Threat Modeling](https://github.com/CyberSecFale/Cybersecurity-Certifications/raw/main/certs/CertificateOfCompletion_Learning_Threat_Modeling_For_Security_Professionals.jpg)
-
 ![Microsoft Security Essentials](https://github.com/CyberSecFale/Cybersecurity-Certifications/raw/main/certs/CertificateOfCompletion_Microsolft_Security_Essentials_Concepts_Solutions_And_AI_Powered_Protection.jpg)
 
 ---

@@ -81,3 +81,8 @@ _Covers Linux, SQL, SIEM tools, IDS, threat detection, and risk mitigation techn
 
 > _“Study while others are sleeping. Work while others are loafing. Prepare while others are playing. Dream while others are wishing.”_  
 > — William Arthur Ward
+
+---
+
+![CyberWolf001](https://img.shields.io/badge/CyberWolf001-Lab%20Ready-critical?style=flat&logo=github)
+![FⱯLE Network Solutions](https://img.shields.io/badge/F%E2%B1%AFLE%20Network-Secured%20by%20Design-blueviolet)

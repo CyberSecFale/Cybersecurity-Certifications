@@ -91,16 +91,16 @@ _Covers Linux, SQL, SIEM tools, IDS, threat detection, and risk mitigation techn
 
 ### 🛠️ Tools & Platforms
 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+[![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)](https://ubuntu.com/download)
+[![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white)](https://www.wireshark.org/download.html)
+[![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/Download)
 
 ---
 
 ### 📚 Certification Providers
 
-![Coursera](https://img.shields.io/badge/Coursera-0056D2?style=flat&logo=coursera&logoColor=white)
-![LinkedIn Learning](https://img.shields.io/badge/LinkedIn%20Learning-0077B5?style=flat&logo=linkedin&logoColor=white)
+[![Coursera](https://img.shields.io/badge/Coursera-0056D2?style=flat&logo=coursera&logoColor=white)](https://www.coursera.org/user/26688abdb33feb64ee95b2754925db27)
+[![LinkedIn Learning](https://img.shields.io/badge/LinkedIn%20Learning-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/c21bobbyfalero)
 
 ---
 
